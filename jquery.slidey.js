@@ -266,3 +266,4 @@
             return null;
         }
     };
+})(jQuery);
