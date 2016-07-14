@@ -1,0 +1,1897 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wp_enq",
+				"wp_enqueue_style"
+			],
+			[
+				"node",
+				"nodeIndex"
+			],
+			[
+				"ndo",
+				"nodeContainer"
+			],
+			[
+				"thum",
+				"thumbWidth"
+			],
+			[
+				"thu",
+				"thumbWidth"
+			],
+			[
+				"origi",
+				"originalWidth"
+			],
+			[
+				"sh",
+				"showList"
+			],
+			[
+				"progre",
+				"progressWidth"
+			],
+			[
+				"ac",
+				"activeSlideIndex"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"property_field",
+				"property_field_values"
+			],
+			[
+				"isnu",
+				"is_numeric"
+			],
+			[
+				"mult",
+				"$multiple_string〔variable〕"
+			],
+			[
+				"field_Def",
+				"$field_def_json〔variable〕"
+			],
+			[
+				"ftradio_",
+				"ftradio_multiselect_list"
+			],
+			[
+				"connector",
+				"$connectorData〔variable〕"
+			],
+			[
+				"ftmult",
+				"ftmultiselect_multiselect_list"
+			],
+			[
+				"ftmu",
+				"ftmultiselect_multiselect_list"
+			],
+			[
+				"ftcheckbox_mult",
+				"ftcheckbox_multiselect_values"
+			],
+			[
+				"fo",
+				"bold_folder_labels"
+			],
+			[
+				"curr",
+				"$current_language〔variable〕"
+			],
+			[
+				"slim",
+				"slimScroll"
+			],
+			[
+				"langu",
+				"$languages〔variable〕"
+			],
+			[
+				"locale",
+				"locale_get_default〔function〕"
+			],
+			[
+				"date_Defa",
+				"date_default_timezone_get"
+			],
+			[
+				"sear",
+				"search_in_github〔function〕"
+			],
+			[
+				"gi",
+				"$github_path〔variable〕"
+			],
+			[
+				"preg_mat",
+				"preg_match_all〔function〕"
+			],
+			[
+				"mul",
+				"multiple"
+			],
+			[
+				"arg",
+				"$arguments〔variable〕"
+			],
+			[
+				"__sta",
+				"__callStatic〔function〕"
+			],
+			[
+				"get_c",
+				"get_parent_class"
+			],
+			[
+				"call_user",
+				"call_user_func_array"
+			],
+			[
+				"field",
+				"$field_settings〔variable〕"
+			],
+			[
+				"var",
+				"var_dump($records"
+			],
+			[
+				"custom",
+				"customfields_colpick"
+			],
+			[
+				"curt",
+				"current_uri"
+			],
+			[
+				"line",
+				"$line_content〔variable〕"
+			],
+			[
+				"lang",
+				"$language_file_contents〔variable〕"
+			],
+			[
+				"requested",
+				"$requested_url〔variable〕"
+			],
+			[
+				"rawu",
+				"rawurlencode〔function〕"
+			],
+			[
+				"redir",
+				"$redirect_url〔variable〕"
+			],
+			[
+				"redirec",
+				"redirect_url"
+			],
+			[
+				"red",
+				"redirect_url"
+			],
+			[
+				"refere",
+				"$referer〔variable〕"
+			],
+			[
+				"var_",
+				"var_dump〔function〕"
+			],
+			[
+				"col",
+				"$column_spec〔variable〕"
+			],
+			[
+				"result",
+				"result_array"
+			],
+			[
+				"rettic",
+				"rettica_columns"
+			],
+			[
+				"get_default",
+				"get_default_datetime_format_php〔function〕"
+			],
+			[
+				"get_Defa",
+				"get_default_datetime_format_php〔function〕"
+			],
+			[
+				"selected_tags",
+				"$selected_tags_obj_str〔variable〕"
+			],
+			[
+				"AVSModel",
+				"AVSModel\\Tags"
+			],
+			[
+				"getProd",
+				"getProductPublishStatus"
+			],
+			[
+				"old",
+				"$old_tag_relations〔variable〕"
+			],
+			[
+				"PROD",
+				"PRODUCT_STATUS::NOT_SAVED"
+			],
+			[
+				"PRODU",
+				"PRODUCT_STATUS::getString"
+			],
+			[
+				"get",
+				"getConstants〔function〕"
+			],
+			[
+				"refle",
+				"ReflectionClass〔class〕"
+			],
+			[
+				"Reflec",
+				"ReflectionClass〔class〕"
+			],
+			[
+				"PRODUCT",
+				"PRODUCT_STATUS::get(\"NOT_SAVED"
+			],
+			[
+				"Eu",
+				"EnumValue"
+			],
+			[
+				"idisplayind",
+				"iDisplayIndexFull"
+			],
+			[
+				"getPu",
+				"getProductPublishStatus()}{else}Not"
+			],
+			[
+				"input",
+				"input_value_obj"
+			],
+			[
+				"set",
+				"setScope〔function〕"
+			],
+			[
+				"AVSM",
+				"AVSModel\\Products"
+			],
+			[
+				"AVSMO",
+				"AVSModel\\Tags"
+			],
+			[
+				"getCate",
+				"getCategoryFk"
+			],
+			[
+				"getCateg",
+				"getCategoryFk"
+			],
+			[
+				"build_category_list_multise",
+				"build_category_list_multiselect"
+			],
+			[
+				"selected",
+				"$selected_category〔variable〕"
+			],
+			[
+				"selected_",
+				"$selected_categories〔variable〕"
+			],
+			[
+				"prod",
+				"$product_category_rel〔variable〕"
+			],
+			[
+				"err",
+				"last_error〔variable〕"
+			],
+			[
+				"last",
+				"last_insert_id〔variable〕"
+			],
+			[
+				"font-",
+				"font-style: 〔property〕"
+			],
+			[
+				"avs",
+				"avs_add_scripts〔function〕"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"setProd",
+				"setProductCode"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"method",
+				"method=〔attribute〕"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"t",
+				"type=〔attribute〕"
+			],
+			[
+				"colum",
+				"columns"
+			],
+			[
+				"foreac",
+				"foreach"
+			],
+			[
+				"fore",
+				"foreach"
+			],
+			[
+				"propert",
+				"propertyId"
+			],
+			[
+				"query",
+				"Query"
+			],
+			[
+				"G",
+				"ProductCategoryPropertyGroups  (class)"
+			],
+			[
+				"get_prop",
+				"get_the_properties  (function)"
+			],
+			[
+				"getm",
+				"mediaPageGetItems"
+			],
+			[
+				"searchQuery",
+				"searchQueryPage"
+			],
+			[
+				"mediaType",
+				"mediaTypePage"
+			],
+			[
+				"NULL",
+				"null"
+			],
+			[
+				"res",
+				"responsivetabs"
+			],
+			[
+				"script",
+				"Script"
+			],
+			[
+				"getCategr",
+				"getCategoryParent"
+			],
+			[
+				"cate",
+				"category_properties"
+			],
+			[
+				"category",
+				"category_key  (variable)"
+			],
+			[
+				"getCategory",
+				"getCategoryId"
+			],
+			[
+				"get_categ",
+				"get_category_properties_with_parents"
+			],
+			[
+				"Prod",
+				"ProductCategories"
+			],
+			[
+				"group",
+				"group_list"
+			],
+			[
+				"category_property",
+				"category_property_groups  (variable)"
+			],
+			[
+				"avs_get_ca",
+				"avs_get_category_property_page"
+			],
+			[
+				"bradId",
+				"BrandId"
+			],
+			[
+				"before",
+				"before_init"
+			],
+			[
+				"findone",
+				"findOneByMediaId"
+			],
+			[
+				"setbra",
+				"setBrandLogoMediaFk"
+			],
+			[
+				"setBrand",
+				"setBrandDescription"
+			],
+			[
+				"Produ",
+				"ProductBrands"
+			],
+			[
+				"brand_ta",
+				"brand_table_api"
+			],
+			[
+				"flatt",
+				"flattened_array"
+			],
+			[
+				"inst",
+				"instances"
+			],
+			[
+				"openm",
+				"openmodalcount"
+			],
+			[
+				"selectedm",
+				"selectMediaItem  (function)"
+			],
+			[
+				"moz-padd",
+				"-moz-padding-start:   (property)"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"this",
+				"thisIndex"
+			],
+			[
+				"valid",
+				"validator_type  (variable)"
+			],
+			[
+				"sub",
+				"submit_id"
+			],
+			[
+				"validator",
+				"current_validator"
+			],
+			[
+				"datetime",
+				"datetime_value"
+			],
+			[
+				"Format",
+				"CustomFormats  (namespace)"
+			],
+			[
+				"fiel",
+				"field_name  (variable)"
+			],
+			[
+				"defaut",
+				"default_moment_time_format"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "/* global jQuery: false, console: false */\n/* jshint undef: true, unused: false */\n/*! jQuery Bootstrap Slidey - v0.0.1 - 2016-01-11\n * http://www.tahapaksu.com\n * Copyright (c) 2016 Taha PAKSU; Licensed  */\n(function($) {\n    $.slidey = function(el, options) {\n        // To avoid scope issues, use 'base' instead of 'this'\n        // to reference this class from internal events and functions.\n        var base = this;\n        // Access to jQuery and DOM versions of element\n        base.$el = $(el);\n        base.el = el;\n        // Add a reverse reference to the DOM object\n        base.$el.data(\"slidey\", base);\n        // define slider specific variables\n        base.slides = [];\n        base.layout = {};\n        base.activeSlideIndex = -1;\n        base.timer = 0;\n        base.hfr = 0;\n        base.init = function() {\n            base.options = $.extend({}, $.slidey.defaultOptions, options);\n            // Put your initialization code here\n            base.fetchSlides();\n            base.constructLayout();\n            base.showLoading();\n            base.hideLoading();\n            base.gotoSlide(2);\n            base.startSliding();\n        };\n        base.fetchSlides = function() {\n            if (base.$el.find(\"ul\").size() > 0) {\n                base.$el.find(\"ul\").first().children(\"li\").each(function() {\n                    var slide = {},\n                        $this = $(this);\n                    slide.image = ($this.find(\"img\").size() > 0) ? $this.find(\"img\").first().attr(\"src\") : -1;\n                    if (slide.image === -1) {\n                        throw (\"Structure error: item has no img tag.\");\n                    }\n                    slide.title = ($this.find(\"p.title\").size() > 0) ? $this.find(\"p.title\").first().html() : \"\";\n                    slide.description = ($this.find(\"p.description\").size() > 0) ? $this.find(\"p.description\").first().html() : \"\";\n                    base.slides.push(slide);\n                });\n            }\n        };\n        base.constructLayout = function() {\n            // hide the container first.\n            base.$el.hide();\n            // build new structure\n            var domdocument = \"\";\n            if (base.options.showList) {\n                domdocument += \"<div class='slidey-row row'><div class='slidey-image col-md-8'><div class='slidey-overlay'>\";\n            } else {\n                domdocument += \"<div class='slidey-row row'><div class='slidey-image col-md-12'><div class='slidey-overlay'>\";\n            }\n            domdocument += \"<p class='slidey-overlay-title'></p><p class='slidey-overlay-description'></p>\";\n            domdocument += \"<span class='slidey-progress'></span>\";\n            domdocument += \"</div></div><div class='slidey-list col-md-4'></div></div>\";\n            // append new structure\n            base.$el.empty().append(domdocument);\n            // set dom node links\n            base.layout.$row = base.$el.find(\".slidey-row\").first();\n            base.layout.$image = base.$el.find(\".slidey-image\").first();\n            base.layout.$list = base.$el.find(\".slidey-list\").first();\n            base.layout.overlay = {};\n            base.layout.overlay.progressWidth = -1;\n            base.layout.$overlay = base.$el.find(\".slidey-overlay\").first();\n            base.layout.overlay.$title = base.$el.find(\".slidey-overlay-title\").first();\n            base.layout.overlay.$description = base.$el.find(\".slidey-overlay-description\").first();\n            base.layout.overlay.$progress = base.$el.find(\".slidey-progress\").first();\n\n            // create controls\n            var controls = \"<div class='slidey-controls slidey-controls-previous'><i class='fa fa-chevron-left'></i></div>\";\n               controls += \"<div class='slidey-controls slidey-controls-next'><i class='fa fa-chevron-right'></i></div>\";\n\n            base.layout.$image.append(controls);\n\n            // create list items\n            var $list = $(\"<ul></ul>\");\n            base.layout.$list.append($list);\n            for (var slideIndex = 0; slideIndex < base.slides.length; slideIndex++) {\n                var $li = $(\"<li></li>\");\n                var elements = \"<table class='slidey-list-table'><tr>\";\n                elements += \"<td rowspan='2' class='slidey-list-thumbnail-container'>\";\n                elements += \"<div class='slidey-list-thumbnail' style='background-image: url(\\\"\" + base.slides[slideIndex].image + \"\\\")'>\";\n                elements += \"</td><td class='slidey-list-title'>\" + base.slides[slideIndex].title + \"</td>\";\n                elements += \"</tr><tr>\";\n                elements += \"<td class='slidey-list-description'>\" + base.slides[slideIndex].description + \"</td>\";\n                elements += \"</tr></table>\";\n                $li.append(elements);\n                $list.append($li);\n            }\n            // hide list when defined as not to show\n            if (base.options.showList === false) {\n                base.layout.$list.hide();\n            }\n            // show the slidey\n            base.$el.show();\n\n            // calculate list item heights\n            var sliderHeight = base.layout.$image.innerHeight();\n            var oneSlideListItemHeight = parseInt(sliderHeight) / base.options.listCount;\n            \n            // set list item thumbnail dimensions\n            var thumbWidth = oneSlideListItemHeight - 9;\n            base.layout.$list.find(\".slidey-list-thumbnail\").css(\"width\", thumbWidth).css(\"height\", thumbWidth);\n            base.addEventListeners();\n            \n            // set list item heights\n            base.layout.$list.find(\"li\").each(function() {\n                var $this = $(this);\n                var spaceBetweenSlides = $this.outerHeight() - $this.innerHeight();\n                $this.height(oneSlideListItemHeight - spaceBetweenSlides);\n                var $description = $(\".slidey-list-description\", $this)\n                $description.width($this.innerWidth() - $(\".slidey-list-thumbnail-container\", $this).width());\n                $description.height($this.height() - $(\".slidey-list-title\").height());\n                $description.css(\"display\", \"block\");\n            });\n\n            // add nodes if required\n            base.prepareNodes();\n        };\n        base.addEventListeners = function() {\n            base.layout.$list.on(\"click\", \"li\", function() {\n                base.gotoSlide(base.layout.$list.find(\"li\").index($(this)));\n            });\n            base.layout.$image.on(\"click\", \".slidey-controls-previous\", function(){\n                base.stopTimer();\n                base.slidePrevious();\n            });\n            base.layout.$image.on(\"click\", \".slidey-controls-next\", function(){\n                base.stopTimer();\n                base.slideNext();\n            });\n        };\n        base.showLoading = function() {};\n        base.hideLoading = function() {};\n        base.startSliding = function() {\n            base.gotoSlide(0);\n        };\n        base.startTimer = function() {\n            base.timer = setTimeout(base.slideNext, base.options.interval);\n            base.layout.overlay.$progress.stop(true, true).css(\"width\", \"0\");\n            base.layout.overlay.$progress.animate({\n                width: base.layout.overlay.progressWidth + \"px\"\n            }, base.options.interval);\n        };\n        base.stopTimer = function() {\n            clearTimeout(base.timer);\n            base.layout.overlay.$progress.stop();\n            base.layout.$overlay.stop();\n            if (base.layout.overlay.progressWidth === -1) {\n                base.layout.overlay.progressWidth = base.layout.overlay.$progress.originalWidth();\n            }\n        };\n        base.slideNext = function() {\n            base.gotoSlide(base.activeSlideIndex + 1);\n        };\n        base.slidePrevious = function() {\n            base.gotoSlide(base.activeSlideIndex - 1);\n        };\n        base.gotoSlide = function(slideIndex) {\n            if (slideIndex < 0) {\n                slideIndex = base.slides.length - 1;\n            } else if (slideIndex >= base.slides.length) {\n                slideIndex = 0;\n            }\n            base.activeSlideIndex = slideIndex;\n            base.stopTimer();\n            if (base.options.showList) {\n                base.layout.$list.find(\"li\").eq(slideIndex).scrollToView(\".slidey-list\", base.options.listCount);\n            }\n            base.layout.$overlay.fadeOut(\"fast\", function() {\n                if (base.options.showList) {\n                    base.layout.$list.find(\"li\").removeClass(\"slidey-active\");\n                    base.layout.$list.find(\"li\").eq(slideIndex).addClass(\"slidey-active\");\n                }\n                base.layout.$image.css(\"background-image\", \"url(\" + base.slides[slideIndex].image + \")\");\n                base.layout.overlay.$title.empty().append(base.slides[slideIndex].title);\n                base.layout.overlay.$description.empty().append(base.slides[slideIndex].description);\n                base.layout.$overlay.fadeIn(\"fast\");\n                base.selectNode(slideIndex);\n                base.startTimer();\n            });\n        };\n        base.prepareNodes = function(){\n            if(base.options.showNodes)\n            {\n                if(base.options.nodeContainer !== \"\" && $(base.options.nodeContainer).size() > 0)\n                {\n                    base.layout.$nodeContainer = $(base.options.nodeContainer);\n                    var $nodebase = $(\"<div class='slidey-node-container'></ul>\");\n                    for (var slideIndex = 0; slideIndex < base.slides.length; slideIndex++) \n                    {\n                        var node = \"<div class='slidey-node' style='background-image: url(\\\"\" + base.slides[slideIndex].image + \"\\\");'></div>\";\n                        $nodebase.append(node);\n                    }\n                    base.layout.$nodeContainer.empty().append($nodebase);\n\n                    $(\".slidey-node\",base.layout.$nodeContainer).on(\"click\", function(){\n                        base.gotoSlide(base.layout.$nodeContainer.find(\".slidey-node\").index($(this)));\n                    });\n                }\n            }\n        };\n        base.selectNode = function(nodeIndex)\n        {\n            if(base.options.showNodes)\n            {\n                if(base.options.nodeContainer !== \"\" && $(base.options.nodeContainer).size() > 0)\n                {\n                    var $nodes = base.layout.$nodeContainer.find(\".slidey-node\");\n                    $nodes.removeClass(\"active\");\n                    $nodes.eq(nodeIndex).addClass(\"active\");\n                }\n            }\n        };\n        // Run initializer\n        base.init();\n    };\n    $.slidey.defaultOptions = {\n        interval: 3000,\n        listCount: 5,\n        showList: true,\n        showNodes: false,\n        nodeContainer: \"\"\n    };\n    \n    $.fn.slidey = function(options) {\n        return this.each(function() {\n            (new $.slidey(this, options));\n        });\n    };\n\n    $.fn.scrollToView = function(parentSelector, listCount) {\n        var $this = $(this);\n        var $parent = $this.parents(parentSelector).first();\n        var itemIndex = $this.parent().find(\"li\").index($this.get(0));\n        if ($parent) {\n            if (itemIndex >= listCount) {\n                var $itemToHide = $this.parent().find(\"li\").eq(itemIndex - listCount);\n                $parent.stop().animate({\n                    scrollTop: $itemToHide.position().top + $itemToHide.originalHeight() + 2\n                }, '300', 'swing');\n            } else {\n                $parent.stop().animate({\n                    scrollTop: 0\n                }, '300', 'swing');\n            }\n        }\n    };\n    $.fn.originalWidth = function() {\n        var domElement = $(this)[0];\n        if (typeof domElement !== \"undefined\") {\n            return domElement.getBoundingClientRect().width;\n        } else {\n            return null;\n        }\n    };\n    $.fn.originalHeight = function() {\n        var domElement = $(this)[0];\n        if (typeof domElement !== \"undefined\") {\n            return domElement.getBoundingClientRect().height;\n        } else {\n            return null;\n        }\n    };\n})(jQuery);",
+			"file": "jquery.slidey.js",
+			"file_size": 12447,
+			"file_write_time": 130978858315094277,
+			"settings":
+			{
+				"buffer_size": 12179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <title>Slidey - jQuery + Bootstrap Slider</title>\n\n    <!-- Bootstrap Core CSS -->\n    <link href=\"bootstrap/bootstrap.min.css\" rel=\"stylesheet\">\n    <!-- jQuery Version 1.11.1 -->\n    <script src=\"dist/jquery.min.js\"></script>\n    <!-- jQuery Slidey 0.0.1 -->\n    <link href=\"dist/jquery.slidey.min.css\" rel=\"stylesheet\">\n    <link href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n    <!--<script src=\"dist/jquery.slidey.min.js\"></script>-->\n    <script src=\"jquery.slidey.js\"></script>\n    <script src=\"dist/jquery.dotdotdot.min.js\"></script>\n    <!-- Custom CSS -->\n    <style>\n    body {\n        padding-top: 70px;\n        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */\n    }\n    </style>\n\n    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n        <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n        <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n\n</head>\n\n<body>\n\n    <!-- Navigation -->\n    <nav class=\"navbar navbar-inverse navbar-fixed-top\" role=\"navigation\">\n        <div class=\"container\">\n            <!-- Brand and toggle get grouped for better mobile display -->\n            <div class=\"navbar-header\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n                    <span class=\"sr-only\">Toggle navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n                <a class=\"navbar-brand\" href=\"#\">jQuery Slidey</a>\n            </div>\n            <!-- Collect the nav links, forms, and other content for toggling -->\n            <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n                <ul class=\"nav navbar-nav\">\n                    <li>\n                        <a href=\"index.html\">Standard</a>\n                    </li>\n                    <li class=\"active\">\n                        <a href=\"theme-1.html\">No list</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-2.html\">Thumbnails</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-3.html\">Full Width</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-4.html\">Full Page</a>\n                    </li>\n                </ul>\n            </div>\n            <!-- /.navbar-collapse -->\n        </div>\n        <!-- /.container -->\n    </nav>\n\n    <!-- Page Content -->\n    <div class=\"container\">\n\n        <div class=\"row\">\n            <div class=\"col-lg-12 text-center\">\n                <h1>jQuery + Bootstrap powered Slidey</h1>\n                <p class=\"lead\">This version will be the startup and let's look how it goes!</p>                \n                <div id=\"slidey\" style=\"display:none;\">\n                    <ul>\n                        <li><img src=\"assets/1.jpg\"><p class='title'>Star Wars</p><p class='description'>After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.</p></li>\n                        <li><img src=\"assets/2.jpg\"><p class='title'>Silicon Valley</p><p class='description'>Mike Judge brings his irreverent brand of humor to HBO in the new comedy series SILICON VALLEY. Partially inspired by Judge's own experiences as a Silicon Valley engineer in the late '80s, the show is a collaboration between Judge and Alec Berg.</p></li>\n                        <li><img src=\"assets/3.jpg\"><p class='title'>Fringe</p><p class='description'>The Fringe team explore the blurring line between the possible and the impossible. They are encountering glitches in the world they are living in, face threats from a parallel universe and try to prevent events that will lead to the destruction of their own universe.</p></li>\n                        <li><img src=\"assets/4.jpg\"><p class='title'>Assassin's Creed</p><p class='description'>When Callum Lynch (Michael Fassbender) explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.</p></li>\n                        <li><img src=\"assets/5.jpg\"><p class='title'>Star Wars</p><p class='description'>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</p></li>\n                        <li><img src=\"assets/6.jpg\"><p class='title'>Continuum</p><p class='description'>Continuum is a one-hour police drama centered on Kiera Cameron, a regular cop from 65 years in the future who finds herself trapped in present day Vancouver. She is alone, a stranger in a strange land, and has eight of the most ruthless criminals from the future, known as Liber8, loose in the city.\n\nLucky for Kiera, through the use of her CMR (cellular memory recall), a futuristic liquid chip technology implanted in her brain, she connects with Alec Sadler, a seventeen-year-old tech genius. When Kiera calls and Alec answers, a very unique partnership begins.\n\nKiera's first desire is to get \"home.\" But until she figures out a way to do that, she must survive in our time period and use all the resources available to her to track and capture the terrorists before they alter history enough to change the course of the future. After all, what's the point of going back if the future isn't the one you left?</p></li>\n                        <li><img src=\"assets/7.jpg\"><p class='title'>Agents of S.H.I.E.L.D.</p><p class='description'>Clark Gregg reprises his role of Agent Phil Coulson from Marvel's feature films, as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H.I.E.L.D. Together they investigate the new, the strange, and the unknown across the globe, protecting the ordinary from the extraordinary. Coulson's team consists of Agent Grant Ward, highly trained in combat and espionage Agent Melinda May expert pilot and martial artist; Agent Leo Fitz, brilliant engineer; and Agent Jemma Simmons, genius bio-chemist. Joining them on their journey into mystery is new recruit and computer hacker, Skye.</p></li>\n                        <li><img src=\"assets/8.jpg\"><p class='title'>Falling Skies</p><p class='description'>The series tells the story of the aftermath of a global invasion by several races of extraterrestrials that neutralizes the world's power grid and technology, quickly destroys the combined militaries of all the world's countries, and apparently kills over 90% of the human population within a few days.</p></li>\n                        <li><img src=\"assets/9.jpg\"><p class='title'>Avengers</p><p class='description'>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit. </p></li>\n                        <li><img src=\"assets/10.jpg\"><p class='title'>Friends</p><p class='description'>Six young people from New York, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.</p></li>\n                    </ul>                    \n                </div>\n            </div>\n        </div>\n        <!-- /.row -->\n    </div>\n    <!-- /.container -->\n    <script type=\"text/javascript\">\n        $(\"#slidey\").slidey({\n            interval: 3000,\n            listCount: 5,\n            showList: false\n        });\n        $(\".slidey-list-description\").dotdotdot();\n    </script>\n\n    <!-- Bootstrap Core JavaScript -->\n    <script src=\"bootstrap/bootstrap.min.js\"></script>\n\n</body>\n\n</html>\n",
+			"file": "theme-1.html",
+			"file_size": 8775,
+			"file_write_time": 131129873369386504,
+			"settings":
+			{
+				"buffer_size": 8649,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <title>Slidey - jQuery + Bootstrap Slider</title>\n\n    <!-- Bootstrap Core CSS -->\n    <link href=\"bootstrap/bootstrap.min.css\" rel=\"stylesheet\">\n    <!-- jQuery Version 1.11.1 -->\n    <script src=\"dist/jquery.min.js\"></script>\n    <!-- jQuery Slidey 0.0.1 -->\n    <link href=\"dist/jquery.slidey.min.css\" rel=\"stylesheet\">\n    <link href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n    <!--<script src=\"dist/jquery.slidey.min.js\"></script>-->\n    <script src=\"jquery.slidey.js\"></script>\n    <script src=\"dist/jquery.dotdotdot.min.js\"></script>\n    <!-- Custom CSS -->\n    <style>\n    body {\n        padding-top: 70px;\n        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */\n    }\n    </style>\n\n    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n        <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n        <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n\n</head>\n\n<body>\n\n    <!-- Navigation -->\n    <nav class=\"navbar navbar-inverse navbar-fixed-top\" role=\"navigation\">\n        <div class=\"container\">\n            <!-- Brand and toggle get grouped for better mobile display -->\n            <div class=\"navbar-header\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n                    <span class=\"sr-only\">Toggle navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n                <a class=\"navbar-brand\" href=\"#\">jQuery Slidey</a>\n            </div>\n            <!-- Collect the nav links, forms, and other content for toggling -->\n            <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n                <ul class=\"nav navbar-nav\">\n                    <li>\n                        <a href=\"index.html\">Standard</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-1.html\">No list</a>\n                    </li>\n                    <li class=\"active\">\n                        <a href=\"theme-2.html\">Thumbnails</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-3.html\">Full Width</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-4.html\">Full Page</a>\n                    </li>\n                </ul>\n            </div>\n            <!-- /.navbar-collapse -->\n        </div>\n        <!-- /.container -->\n    </nav>\n\n    <!-- Page Content -->\n    <div class=\"container\">\n\n        <div class=\"row\">\n            <div class=\"col-lg-12 text-center\">\n                <h1>jQuery + Bootstrap powered Slidey</h1>\n                <p class=\"lead\">This version will be the startup and let's look how it goes!</p>                \n                <div id=\"slidey\" style=\"display:none;\">\n                    <ul>\n                        <li><img src=\"assets/1.jpg\"><p class='title'>Star Wars</p><p class='description'>After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.</p></li>\n                        <li><img src=\"assets/2.jpg\"><p class='title'>Silicon Valley</p><p class='description'>Mike Judge brings his irreverent brand of humor to HBO in the new comedy series SILICON VALLEY. Partially inspired by Judge's own experiences as a Silicon Valley engineer in the late '80s, the show is a collaboration between Judge and Alec Berg.</p></li>\n                        <li><img src=\"assets/3.jpg\"><p class='title'>Fringe</p><p class='description'>The Fringe team explore the blurring line between the possible and the impossible. They are encountering glitches in the world they are living in, face threats from a parallel universe and try to prevent events that will lead to the destruction of their own universe.</p></li>\n                        <li><img src=\"assets/4.jpg\"><p class='title'>Assassin's Creed</p><p class='description'>When Callum Lynch (Michael Fassbender) explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.</p></li>\n                        <li><img src=\"assets/5.jpg\"><p class='title'>Star Wars</p><p class='description'>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</p></li>\n                        <li><img src=\"assets/6.jpg\"><p class='title'>Continuum</p><p class='description'>Continuum is a one-hour police drama centered on Kiera Cameron, a regular cop from 65 years in the future who finds herself trapped in present day Vancouver. She is alone, a stranger in a strange land, and has eight of the most ruthless criminals from the future, known as Liber8, loose in the city.\n\nLucky for Kiera, through the use of her CMR (cellular memory recall), a futuristic liquid chip technology implanted in her brain, she connects with Alec Sadler, a seventeen-year-old tech genius. When Kiera calls and Alec answers, a very unique partnership begins.\n\nKiera's first desire is to get \"home.\" But until she figures out a way to do that, she must survive in our time period and use all the resources available to her to track and capture the terrorists before they alter history enough to change the course of the future. After all, what's the point of going back if the future isn't the one you left?</p></li>\n                        <li><img src=\"assets/7.jpg\"><p class='title'>Agents of S.H.I.E.L.D.</p><p class='description'>Clark Gregg reprises his role of Agent Phil Coulson from Marvel's feature films, as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H.I.E.L.D. Together they investigate the new, the strange, and the unknown across the globe, protecting the ordinary from the extraordinary. Coulson's team consists of Agent Grant Ward, highly trained in combat and espionage Agent Melinda May expert pilot and martial artist; Agent Leo Fitz, brilliant engineer; and Agent Jemma Simmons, genius bio-chemist. Joining them on their journey into mystery is new recruit and computer hacker, Skye.</p></li>\n                        <li><img src=\"assets/8.jpg\"><p class='title'>Falling Skies</p><p class='description'>The series tells the story of the aftermath of a global invasion by several races of extraterrestrials that neutralizes the world's power grid and technology, quickly destroys the combined militaries of all the world's countries, and apparently kills over 90% of the human population within a few days.</p></li>\n                        <li><img src=\"assets/9.jpg\"><p class='title'>Avengers</p><p class='description'>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit. </p></li>\n                        <li><img src=\"assets/10.jpg\"><p class='title'>Friends</p><p class='description'>Six young people from New York, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.</p></li>\n                    </ul>                    \n                </div>\n            </div>\n        </div>\n        <div id=\"nodes\"></div>\n        <!-- /.row -->\n    </div>\n    <!-- /.container -->\n    <script type=\"text/javascript\">\n        $(\"#slidey\").slidey({\n            interval: 3000,\n            listCount: 5,\n            showList: false,\n            showNodes: true,\n            nodeContainer: \"#nodes\" \n        });\n        $(\".slidey-list-description\").dotdotdot();\n    </script>\n\n    <!-- Bootstrap Core JavaScript -->\n    <script src=\"bootstrap/bootstrap.min.js\"></script>\n\n</body>\n\n</html>\n",
+			"file": "theme-2.html",
+			"file_size": 8876,
+			"file_write_time": 131129880283611975,
+			"settings":
+			{
+				"buffer_size": 8747,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "# workspace files are user-specific\n.sublime-workspace\n\n# project files should be checked into the repository, unless a significant\n# proportion of contributors will probably not be using SublimeText\n*.sublime-project",
+			"file": ".gitignore",
+			"file_size": 222,
+			"file_write_time": 131129882307187717,
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <title>Slidey - jQuery + Bootstrap Slider</title>\n\n    <!-- Bootstrap Core CSS -->\n    <link href=\"bootstrap/bootstrap.min.css\" rel=\"stylesheet\">\n    <!-- jQuery Version 1.11.1 -->\n    <script src=\"dist/jquery.min.js\"></script>\n    <!-- jQuery Slidey 0.0.1 -->\n    <link href=\"dist/jquery.slidey.min.css\" rel=\"stylesheet\">\n    <link href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n    <!--<script src=\"dist/jquery.slidey.min.js\"></script>-->\n    <script src=\"jquery.slidey.js\"></script>\n    <script src=\"dist/jquery.dotdotdot.min.js\"></script>\n    <!-- Custom CSS -->\n    <style>\n    body {\n        padding-top: 70px;\n        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */\n    }\n    </style>\n\n    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n        <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n        <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n\n</head>\n\n<body>\n\n    <!-- Navigation -->\n    <nav class=\"navbar navbar-inverse navbar-fixed-top\" role=\"navigation\">\n        <div class=\"container\">\n            <!-- Brand and toggle get grouped for better mobile display -->\n            <div class=\"navbar-header\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n                    <span class=\"sr-only\">Toggle navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n                <a class=\"navbar-brand\" href=\"#\">jQuery Slidey</a>\n            </div>\n            <!-- Collect the nav links, forms, and other content for toggling -->\n            <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n                <ul class=\"nav navbar-nav\">\n                    <li class=\"active\">\n                        <a href=\"index.html\">Standard</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-1.html\">No list</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-2.html\">Thumbnails</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-3.html\">Full Width</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-4.html\">Full Page</a>\n                    </li>\n                </ul>\n            </div>\n            <!-- /.navbar-collapse -->\n        </div>\n        <!-- /.container -->\n    </nav>\n\n    <!-- Page Content -->\n    <div class=\"container\">\n\n        <div class=\"row\">\n            <div class=\"col-lg-12 text-center\">\n                <h1>jQuery + Bootstrap powered Slidey</h1>\n                <p class=\"lead\">This version will be the startup and let's look how it goes!</p>                \n                <div id=\"slidey\" style=\"display:none;\">\n                    <ul>\n                        <li><img src=\"assets/1.jpg\"><p class='title'>Star Wars</p><p class='description'>After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.</p></li>\n                        <li><img src=\"assets/2.jpg\"><p class='title'>Silicon Valley</p><p class='description'>Mike Judge brings his irreverent brand of humor to HBO in the new comedy series SILICON VALLEY. Partially inspired by Judge's own experiences as a Silicon Valley engineer in the late '80s, the show is a collaboration between Judge and Alec Berg.</p></li>\n                        <li><img src=\"assets/3.jpg\"><p class='title'>Fringe</p><p class='description'>The Fringe team explore the blurring line between the possible and the impossible. They are encountering glitches in the world they are living in, face threats from a parallel universe and try to prevent events that will lead to the destruction of their own universe.</p></li>\n                        <li><img src=\"assets/4.jpg\"><p class='title'>Assassin's Creed</p><p class='description'>When Callum Lynch (Michael Fassbender) explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.</p></li>\n                        <li><img src=\"assets/5.jpg\"><p class='title'>Star Wars</p><p class='description'>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</p></li>\n                        <li><img src=\"assets/6.jpg\"><p class='title'>Continuum</p><p class='description'>Continuum is a one-hour police drama centered on Kiera Cameron, a regular cop from 65 years in the future who finds herself trapped in present day Vancouver. She is alone, a stranger in a strange land, and has eight of the most ruthless criminals from the future, known as Liber8, loose in the city.\n\nLucky for Kiera, through the use of her CMR (cellular memory recall), a futuristic liquid chip technology implanted in her brain, she connects with Alec Sadler, a seventeen-year-old tech genius. When Kiera calls and Alec answers, a very unique partnership begins.\n\nKiera's first desire is to get \"home.\" But until she figures out a way to do that, she must survive in our time period and use all the resources available to her to track and capture the terrorists before they alter history enough to change the course of the future. After all, what's the point of going back if the future isn't the one you left?</p></li>\n                        <li><img src=\"assets/7.jpg\"><p class='title'>Agents of S.H.I.E.L.D.</p><p class='description'>Clark Gregg reprises his role of Agent Phil Coulson from Marvel's feature films, as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H.I.E.L.D. Together they investigate the new, the strange, and the unknown across the globe, protecting the ordinary from the extraordinary. Coulson's team consists of Agent Grant Ward, highly trained in combat and espionage Agent Melinda May expert pilot and martial artist; Agent Leo Fitz, brilliant engineer; and Agent Jemma Simmons, genius bio-chemist. Joining them on their journey into mystery is new recruit and computer hacker, Skye.</p></li>\n                        <li><img src=\"assets/8.jpg\"><p class='title'>Falling Skies</p><p class='description'>The series tells the story of the aftermath of a global invasion by several races of extraterrestrials that neutralizes the world's power grid and technology, quickly destroys the combined militaries of all the world's countries, and apparently kills over 90% of the human population within a few days.</p></li>\n                        <li><img src=\"assets/9.jpg\"><p class='title'>Avengers</p><p class='description'>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit. </p></li>\n                        <li><img src=\"assets/10.jpg\"><p class='title'>Friends</p><p class='description'>Six young people from New York, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.</p></li>\n                    </ul>                    \n                </div>\n            </div>\n        </div>\n        <!-- /.row -->\n    </div>\n    <!-- /.container -->\n    <script type=\"text/javascript\">\n        $(\"#slidey\").slidey({\n            interval: 3000,\n            listCount: 5,\n            showList: true\n        });\n        $(\".slidey-list-description\").dotdotdot();\n    </script>\n\n    <!-- Bootstrap Core JavaScript -->\n    <script src=\"bootstrap/bootstrap.min.js\"></script>\n\n</body>\n\n</html>\n=======\n\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <title>Slidey - jQuery + Bootstrap Slider</title>\n\n    <!-- Bootstrap Core CSS -->\n    <link href=\"bootstrap/bootstrap.min.css\" rel=\"stylesheet\">\n    <!-- jQuery Version 1.11.1 -->\n    <script src=\"dist/jquery.min.js\"></script>\n    <!-- jQuery Slidey 0.0.1 -->\n    <link href=\"dist/jquery.slidey.min.css\" rel=\"stylesheet\">\n    <link href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n    <!--<script src=\"dist/jquery.slidey.min.js\"></script>-->\n    <script src=\"jquery.slidey.js\"></script>\n    <script src=\"dist/jquery.dotdotdot.min.js\"></script>\n    <!-- Custom CSS -->\n    <style>\n    body {\n        padding-top: 70px;\n        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */\n    }\n    </style>\n\n    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n        <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n        <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n\n</head>\n\n<body>\n\n    <!-- Navigation -->\n    <nav class=\"navbar navbar-inverse navbar-fixed-top\" role=\"navigation\">\n        <div class=\"container\">\n            <!-- Brand and toggle get grouped for better mobile display -->\n            <div class=\"navbar-header\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n                    <span class=\"sr-only\">Toggle navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n                <a class=\"navbar-brand\" href=\"#\">jQuery Slidey</a>\n            </div>\n            <!-- Collect the nav links, forms, and other content for toggling -->\n            <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n                <ul class=\"nav navbar-nav\">\n                    <li class=\"active\">\n                        <a href=\"index.html\">Standard</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-1.html\">No list</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-2.html\">Thumbnails</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-3.html\">Full Width</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-4.html\">Full Page</a>\n                    </li>\n                </ul>\n            </div>\n            <!-- /.navbar-collapse -->\n        </div>\n        <!-- /.container -->\n    </nav>\n\n    <!-- Page Content -->\n    <div class=\"container\">\n\n        <div class=\"row\">\n            <div class=\"col-lg-12 text-center\">\n                <h1>jQuery + Bootstrap powered Slidey</h1>\n                <p class=\"lead\">This version will be the startup and let's look how it goes!</p>                \n                <div id=\"slidey\" style=\"display:none;\">\n                    <ul>\n                        <li><img src=\"assets/1.jpg\"><p class='title'>Star Wars</p><p class='description'>After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.</p></li>\n                        <li><img src=\"assets/2.jpg\"><p class='title'>Silicon Valley</p><p class='description'>Mike Judge brings his irreverent brand of humor to HBO in the new comedy series SILICON VALLEY. Partially inspired by Judge's own experiences as a Silicon Valley engineer in the late '80s, the show is a collaboration between Judge and Alec Berg.</p></li>\n                        <li><img src=\"assets/3.jpg\"><p class='title'>Fringe</p><p class='description'>The Fringe team explore the blurring line between the possible and the impossible. They are encountering glitches in the world they are living in, face threats from a parallel universe and try to prevent events that will lead to the destruction of their own universe.</p></li>\n                        <li><img src=\"assets/4.jpg\"><p class='title'>Assassin's Creed</p><p class='description'>When Callum Lynch (Michael Fassbender) explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.</p></li>\n                        <li><img src=\"assets/5.jpg\"><p class='title'>Star Wars</p><p class='description'>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</p></li>\n                        <li><img src=\"assets/6.jpg\"><p class='title'>Continuum</p><p class='description'>Continuum is a one-hour police drama centered on Kiera Cameron, a regular cop from 65 years in the future who finds herself trapped in present day Vancouver. She is alone, a stranger in a strange land, and has eight of the most ruthless criminals from the future, known as Liber8, loose in the city.\n\nLucky for Kiera, through the use of her CMR (cellular memory recall), a futuristic liquid chip technology implanted in her brain, she connects with Alec Sadler, a seventeen-year-old tech genius. When Kiera calls and Alec answers, a very unique partnership begins.\n\nKiera's first desire is to get \"home.\" But until she figures out a way to do that, she must survive in our time period and use all the resources available to her to track and capture the terrorists before they alter history enough to change the course of the future. After all, what's the point of going back if the future isn't the one you left?</p></li>\n                        <li><img src=\"assets/7.jpg\"><p class='title'>Agents of S.H.I.E.L.D.</p><p class='description'>Clark Gregg reprises his role of Agent Phil Coulson from Marvel's feature films, as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H.I.E.L.D. Together they investigate the new, the strange, and the unknown across the globe, protecting the ordinary from the extraordinary. Coulson's team consists of Agent Grant Ward, highly trained in combat and espionage Agent Melinda May expert pilot and martial artist; Agent Leo Fitz, brilliant engineer; and Agent Jemma Simmons, genius bio-chemist. Joining them on their journey into mystery is new recruit and computer hacker, Skye.</p></li>\n                        <li><img src=\"assets/8.jpg\"><p class='title'>Falling Skies</p><p class='description'>The series tells the story of the aftermath of a global invasion by several races of extraterrestrials that neutralizes the world's power grid and technology, quickly destroys the combined militaries of all the world's countries, and apparently kills over 90% of the human population within a few days.</p></li>\n                        <li><img src=\"assets/9.jpg\"><p class='title'>Avengers</p><p class='description'>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit. </p></li>\n                        <li><img src=\"assets/10.jpg\"><p class='title'>Friends</p><p class='description'>Six young people from New York, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.</p></li>\n                    </ul>                    \n                </div>\n            </div>\n        </div>\n        <!-- /.row -->\n    </div>\n    <!-- /.container -->\n    <script type=\"text/javascript\">\n        $(\"#slidey\").slidey({\n            interval: 3000,\n            listCount: 5,\n            showList: true\n        });\n        $(\".slidey-list-description\").dotdotdot();\n    </script>\n\n    <!-- Bootstrap Core JavaScript -->\n    <script src=\"bootstrap/bootstrap.min.js\"></script>\n\n</body>\n\n</html>\n>>>>>>> b6f4d9158ad6763767ab7fbe04aae1767b3fe748\n",
+			"file": "jquery.slidey/index.html",
+			"file_size": 17621,
+			"file_write_time": 131129895226016631,
+			"settings":
+			{
+				"buffer_size": 17352,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <title>Slidey - jQuery + Bootstrap Slider</title>\n\n    <!-- Bootstrap Core CSS -->\n    <link href=\"bootstrap/bootstrap.min.css\" rel=\"stylesheet\">\n    <!-- jQuery Version 1.11.1 -->\n    <script src=\"dist/jquery.min.js\"></script>\n    <!-- jQuery Slidey 0.0.1 -->\n    <link href=\"dist/jquery.slidey.min.css\" rel=\"stylesheet\">\n    <link href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n    <!--<script src=\"dist/jquery.slidey.min.js\"></script>-->\n    <script src=\"jquery.slidey.js\"></script>\n    <script src=\"dist/jquery.dotdotdot.min.js\"></script>\n    <!-- Custom CSS -->\n    <style>\n    body {\n        padding-top: 70px;\n        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */\n    }\n    </style>\n\n    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n        <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n        <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n\n</head>\n\n<body>\n\n    <!-- Navigation -->\n    <nav class=\"navbar navbar-inverse navbar-fixed-top\" role=\"navigation\">\n        <div class=\"container\">\n            <!-- Brand and toggle get grouped for better mobile display -->\n            <div class=\"navbar-header\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n                    <span class=\"sr-only\">Toggle navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n                <a class=\"navbar-brand\" href=\"#\">jQuery Slidey</a>\n            </div>\n            <!-- Collect the nav links, forms, and other content for toggling -->\n            <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n                <ul class=\"nav navbar-nav\">\n                    <li>\n                        <a href=\"index.html\">Standard</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-1.html\">No list</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-2.html\">Thumbnails</a>\n                    </li>\n                    <li class=\"active\">\n                        <a href=\"theme-3.html\">Full Width</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-4.html\">Full Page</a>\n                    </li>\n                </ul>\n            </div>\n            <!-- /.navbar-collapse -->\n        </div>\n        <!-- /.container -->\n    </nav>\n\n    <!-- Page Content -->\n    <div class=\"container-fluid\">\n\n        <div class=\"row\">\n            <div class=\"col-lg-12 text-center\">\n                <h1>jQuery + Bootstrap powered Slidey</h1>\n                <p class=\"lead\">This version will be the startup and let's look how it goes!</p>                \n                <div id=\"slidey\" style=\"display:none;\">\n                    <ul>\n                        <li><img src=\"assets/1.jpg\"><p class='title'>Star Wars</p><p class='description'>After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.</p></li>\n                        <li><img src=\"assets/2.jpg\"><p class='title'>Silicon Valley</p><p class='description'>Mike Judge brings his irreverent brand of humor to HBO in the new comedy series SILICON VALLEY. Partially inspired by Judge's own experiences as a Silicon Valley engineer in the late '80s, the show is a collaboration between Judge and Alec Berg.</p></li>\n                        <li><img src=\"assets/3.jpg\"><p class='title'>Fringe</p><p class='description'>The Fringe team explore the blurring line between the possible and the impossible. They are encountering glitches in the world they are living in, face threats from a parallel universe and try to prevent events that will lead to the destruction of their own universe.</p></li>\n                        <li><img src=\"assets/4.jpg\"><p class='title'>Assassin's Creed</p><p class='description'>When Callum Lynch (Michael Fassbender) explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.</p></li>\n                        <li><img src=\"assets/5.jpg\"><p class='title'>Star Wars</p><p class='description'>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</p></li>\n                        <li><img src=\"assets/6.jpg\"><p class='title'>Continuum</p><p class='description'>Continuum is a one-hour police drama centered on Kiera Cameron, a regular cop from 65 years in the future who finds herself trapped in present day Vancouver. She is alone, a stranger in a strange land, and has eight of the most ruthless criminals from the future, known as Liber8, loose in the city.\n\nLucky for Kiera, through the use of her CMR (cellular memory recall), a futuristic liquid chip technology implanted in her brain, she connects with Alec Sadler, a seventeen-year-old tech genius. When Kiera calls and Alec answers, a very unique partnership begins.\n\nKiera's first desire is to get \"home.\" But until she figures out a way to do that, she must survive in our time period and use all the resources available to her to track and capture the terrorists before they alter history enough to change the course of the future. After all, what's the point of going back if the future isn't the one you left?</p></li>\n                        <li><img src=\"assets/7.jpg\"><p class='title'>Agents of S.H.I.E.L.D.</p><p class='description'>Clark Gregg reprises his role of Agent Phil Coulson from Marvel's feature films, as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H.I.E.L.D. Together they investigate the new, the strange, and the unknown across the globe, protecting the ordinary from the extraordinary. Coulson's team consists of Agent Grant Ward, highly trained in combat and espionage Agent Melinda May expert pilot and martial artist; Agent Leo Fitz, brilliant engineer; and Agent Jemma Simmons, genius bio-chemist. Joining them on their journey into mystery is new recruit and computer hacker, Skye.</p></li>\n                        <li><img src=\"assets/8.jpg\"><p class='title'>Falling Skies</p><p class='description'>The series tells the story of the aftermath of a global invasion by several races of extraterrestrials that neutralizes the world's power grid and technology, quickly destroys the combined militaries of all the world's countries, and apparently kills over 90% of the human population within a few days.</p></li>\n                        <li><img src=\"assets/9.jpg\"><p class='title'>Avengers</p><p class='description'>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit. </p></li>\n                        <li><img src=\"assets/10.jpg\"><p class='title'>Friends</p><p class='description'>Six young people from New York, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.</p></li>\n                    </ul>                    \n                </div>\n            </div>\n        </div>\n        <!-- /.row -->\n    </div>\n    <!-- /.container -->\n    <script type=\"text/javascript\">\n        $(\"#slidey\").slidey({\n            interval: 3000,\n            listCount: 5,\n            showList: false\n        });\n        $(\".slidey-list-description\").dotdotdot();\n    </script>\n\n    <!-- Bootstrap Core JavaScript -->\n    <script src=\"bootstrap/bootstrap.min.js\"></script>\n\n</body>\n\n</html>\n",
+			"file": "theme-3.html",
+			"file_size": 8781,
+			"file_write_time": 131129873188606164,
+			"settings":
+			{
+				"buffer_size": 8655,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <title>Slidey - jQuery + Bootstrap Slider</title>\n\n    <!-- Bootstrap Core CSS -->\n    <link href=\"bootstrap/bootstrap.min.css\" rel=\"stylesheet\">\n    <!-- jQuery Version 1.11.1 -->\n    <script src=\"dist/jquery.min.js\"></script>\n    <!-- jQuery Slidey 0.0.1 -->\n    <link href=\"dist/jquery.slidey.min.css\" rel=\"stylesheet\">\n    <link href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css\" rel=\"stylesheet\">\n    <!--<script src=\"dist/jquery.slidey.min.js\"></script>-->\n    <script src=\"jquery.slidey.js\"></script>\n    <script src=\"dist/jquery.dotdotdot.min.js\"></script>\n    <!-- Custom CSS -->\n    <style>\n    body {\n        padding-top: 70px;\n        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */\n    }\n    </style>\n\n    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->\n    <!--[if lt IE 9]>\n        <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n        <script src=\"https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n\n</head>\n\n<body>\n\n    <!-- Navigation -->\n    <nav class=\"navbar navbar-inverse navbar-fixed-top\" role=\"navigation\">\n        <div class=\"container\">\n            <!-- Brand and toggle get grouped for better mobile display -->\n            <div class=\"navbar-header\">\n                <button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\">\n                    <span class=\"sr-only\">Toggle navigation</span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n                <a class=\"navbar-brand\" href=\"#\">jQuery Slidey</a>\n            </div>\n            <!-- Collect the nav links, forms, and other content for toggling -->\n            <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n                <ul class=\"nav navbar-nav\">\n                    <li>\n                        <a href=\"index.html\">Standard</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-1.html\">No list</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-2.html\">Thumbnails</a>\n                    </li>\n                    <li>\n                        <a href=\"theme-3.html\">Full Width</a>\n                    </li>\n                    <li class=\"active\">\n                        <a href=\"theme-4.html\">Full Page</a>\n                    </li>\n                </ul>\n            </div>\n            <!-- /.navbar-collapse -->\n        </div>\n        <!-- /.container -->\n    </nav>\n\n    <!-- Page Content -->\n    <div class=\"container\">\n\n        <div class=\"row\">\n            <div class=\"col-lg-12 text-center panel panel-info\">\n                <h1>jQuery + Bootstrap powered Slidey</h1>\n                <p class=\"lead\">This version will be the startup and let's look how it goes!</p>                \n                <div id=\"slidey\" class=\"full-page\" style=\"display:none;\">\n                    <ul>\n                        <li><img src=\"assets/1.jpg\"><p class='title'>Star Wars</p><p class='description'>After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.</p></li>\n                        <li><img src=\"assets/2.jpg\"><p class='title'>Silicon Valley</p><p class='description'>Mike Judge brings his irreverent brand of humor to HBO in the new comedy series SILICON VALLEY. Partially inspired by Judge's own experiences as a Silicon Valley engineer in the late '80s, the show is a collaboration between Judge and Alec Berg.</p></li>\n                        <li><img src=\"assets/3.jpg\"><p class='title'>Fringe</p><p class='description'>The Fringe team explore the blurring line between the possible and the impossible. They are encountering glitches in the world they are living in, face threats from a parallel universe and try to prevent events that will lead to the destruction of their own universe.</p></li>\n                        <li><img src=\"assets/4.jpg\"><p class='title'>Assassin's Creed</p><p class='description'>When Callum Lynch (Michael Fassbender) explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.</p></li>\n                        <li><img src=\"assets/5.jpg\"><p class='title'>Star Wars</p><p class='description'>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</p></li>\n                        <li><img src=\"assets/6.jpg\"><p class='title'>Continuum</p><p class='description'>Continuum is a one-hour police drama centered on Kiera Cameron, a regular cop from 65 years in the future who finds herself trapped in present day Vancouver. She is alone, a stranger in a strange land, and has eight of the most ruthless criminals from the future, known as Liber8, loose in the city.\n\nLucky for Kiera, through the use of her CMR (cellular memory recall), a futuristic liquid chip technology implanted in her brain, she connects with Alec Sadler, a seventeen-year-old tech genius. When Kiera calls and Alec answers, a very unique partnership begins.\n\nKiera's first desire is to get \"home.\" But until she figures out a way to do that, she must survive in our time period and use all the resources available to her to track and capture the terrorists before they alter history enough to change the course of the future. After all, what's the point of going back if the future isn't the one you left?</p></li>\n                        <li><img src=\"assets/7.jpg\"><p class='title'>Agents of S.H.I.E.L.D.</p><p class='description'>Clark Gregg reprises his role of Agent Phil Coulson from Marvel's feature films, as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H.I.E.L.D. Together they investigate the new, the strange, and the unknown across the globe, protecting the ordinary from the extraordinary. Coulson's team consists of Agent Grant Ward, highly trained in combat and espionage Agent Melinda May expert pilot and martial artist; Agent Leo Fitz, brilliant engineer; and Agent Jemma Simmons, genius bio-chemist. Joining them on their journey into mystery is new recruit and computer hacker, Skye.</p></li>\n                        <li><img src=\"assets/8.jpg\"><p class='title'>Falling Skies</p><p class='description'>The series tells the story of the aftermath of a global invasion by several races of extraterrestrials that neutralizes the world's power grid and technology, quickly destroys the combined militaries of all the world's countries, and apparently kills over 90% of the human population within a few days.</p></li>\n                        <li><img src=\"assets/9.jpg\"><p class='title'>Avengers</p><p class='description'>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit. </p></li>\n                        <li><img src=\"assets/10.jpg\"><p class='title'>Friends</p><p class='description'>Six young people from New York, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.</p></li>\n                    </ul>                    \n                </div>\n            </div>\n        </div>\n        <!-- /.row -->\n    </div>\n    <!-- /.container -->\n    <script type=\"text/javascript\">\n        $(\"#slidey\").slidey({\n            interval: 3000,\n            listCount: 5,\n            showList: false\n        });\n        $(\".slidey-list-description\").dotdotdot();\n    </script>\n\n    <!-- Bootstrap Core JavaScript -->\n    <script src=\"bootstrap/bootstrap.min.js\"></script>\n\n</body>\n\n</html>\n",
+			"file": "theme-4.html",
+			"file_size": 8810,
+			"file_write_time": 131129878727362962,
+			"settings":
+			{
+				"buffer_size": 8684,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": ".no-gutter {\n    padding: 0;\n    margin: 0;\n}\n\n\n\n.slidey-row {\n    height: 400px;\n\n    border: 1px solid black;\n    border-radius: 9px;\n    background: black;\n    box-shadow: 0 0 2px 2px rgba(0,0,0,.25);\n\n    backface-visibility: hidden;\n    .user-select(none);\n\n    .slidey-image {\n        position: relative;\n\n        min-height: 100%;\n\n        border-top-left-radius: 9px;\n        border-bottom-left-radius: 9px;\n        background-repeat: no-repeat;\n        background-position: center center;\n        background-size: cover;\n\n        .image-fix();\n        .no-gutter();\n        .slidey-overlay {\n            position: absolute;\n            bottom: 0;\n\n            width: 100%;\n            min-height: 50px;\n            padding: 10px;\n\n            color: white;\n            border-bottom-left-radius: 9px;\n            background: rgba(0, 0, 0, .5);\n            .slidey-overlay-title {\n                padding: 6px 0 0 6px;\n                margin: 0;\n\n                font-weight: bold;\n\n                text-align: left;\n            }\n            .slidey-overlay-description {\n                padding: 6px 0 0 6px;\n                margin: 0;\n\n                text-align: left;\n            }\n            .slidey-progress {\n                position: absolute;\n                top: 0;\n                left: 0;\n\n                display: block;\n                width: 100%;\n                height: 4px;\n\n                background: #c2d500;\n            }\n        }\n    }\n    .slidey-list {\n        max-height: 100%;\n        overflow: hidden;\n\n        border-left: 1px solid #0a0910;\n        border-top-right-radius: 9px;\n        border-bottom-right-radius: 9px;\n\n        .no-gutter();\n        ul {\n            list-style-type: none;\n\n            border-top-right-radius: 9px;\n            border-bottom-right-radius: 9px;\n\n            .no-gutter();\n            li {\n                max-width: 100%;\n                padding: 0;\n                overflow: hidden;\n\n                line-height: 1.2em;\n\n                transition-duration: .3s;\n\n                border-top: 1px solid #2a2930;\n                border-bottom: 1px solid #0a0910;\n                background: #1a1920;\n                text-shadow: 1px 1px 1px black;\n                &:hover {\n                    cursor: pointer;\n\n                    background: lighten(rgba(0,0,0,1),10%);\n                }\n                &:visible:first-child {\n                    border-top-width: 0;\n                    border-top-right-radius: 7px;\n                }\n                &:visible:last-child {\n                    border-bottom-right-radius: 7px;\n                }\n                table {\n                    td {\n                        padding: 0;\n\n                        text-align: left;\n                    }\n                    .slidey-list-thumbnail-container {\n                        padding: 4px;\n\n                        text-align: left;\n                        vertical-align: top;\n                        .slidey-list-thumbnail {\n                            max-width: 100px;\n                            max-height: 100px;\n                            margin: 0;\n\n                            background-position: center center;\n                            background-size: cover;\n                            box-shadow: 0 0 1px white;\n\n                            .image-fix();\n                        }\n                    }\n                    .slidey-list-title {\n                        padding: 5px 0 5px 4px;\n                        margin: 0;\n\n                        font-weight: bold;\n\n                        text-align: left;\n\n                        color: #c2d500;\n                    }\n                    .slidey-list-description {\n                        max-width: 95%;\n                        padding: 0 0 0 4px;\n                        margin: 0;\n\n                        font-size: smaller;\n\n                        text-align: left;\n\n                        color: white;\n                    }\n                }\n            }\n            li.slidey-active {\n                color: black;\n                background: #c2d500;\n                text-shadow: none;\n                &:hover {\n                    background: lighten(#c2d500,10%);\n                }\n                .slidey-list-thumbnail {\n                    box-shadow: 0 0 1px black;\n                }\n                .slidey-list-title {\n                    color: #1a1920;\n                }\n                .slidey-list-description {\n                    color: black;\n                }\n            }\n        }\n    }\n    .slidey-controls {\n        position: absolute;\n\n        display: inline-block;\n        width: 50px;\n        height: 50px;\n\n        font-size: 25px;\n        line-height: 48px;\n\n        cursor: pointer;\n        text-align: center;\n        vertical-align: bottom;\n\n        opacity: .4;\n        color: #c2d500;\n        border: 4px solid #c2d500;\n        border-radius: 12px;\n        background-color: black;\n        &:hover {\n            opacity: 1;\n        }\n    }\n    .slidey-controls-previous {\n        top: 10px;\n        left: 10px;\n        i {\n            position: relative;\n            top: -2px;\n            left: -1px;\n        }\n    }\n    .slidey-controls-next {\n        top: 10px;\n        right: 10px;\n        i {\n            position: relative;\n            top: -2px;\n            left: 2px;\n        }\n    }\n}\n\n.slidey-node-container {\n    padding: 10px;\n    overflow: auto;\n\n    list-style-type: none;\n\n    text-align: center;\n\n    border: 1px solid #c2d500;\n    border-bottom-right-radius: 9px;\n    border-bottom-left-radius: 9px;\n    background: black;\n    box-shadow: 0 0 2px 2px rgba(0,0,0,.25);\n\n    .no-gutter();\n    .slidey-node {\n        display: inline-block;\n        width: 100px;\n        height: 75px;\n        margin: 10px 5px 5px 5px;\n\n        cursor: pointer;\n\n        opacity: .4;\n        border: 1px solid #c2d500;\n        border-radius: 9px;\n        background-repeat: no-repeat;\n        background-position: center center;\n        background-size: cover;\n        &.active {\n            opacity: 1;\n            border: 2px solid white;\n        }\n        &:hover {\n            opacity: .7;\n        }\n    }\n}\n\n.container-fluid, .full-page {\n    .slidey-row,\n    .slidey-overlay,\n    .slidey-image,\n    .slidey-list,\n    .slidey-list ul,\n    .slidey-list li {\n        border-width: 0;\n        border-radius: 0 !important;\n        box-shadow: none;\n    }\n}\n\n.full-page {\n    .slidey-row {\n        position:fixed;\n        z-index: -1;\n        top: 0;\n        left: 0;\n        bottom: 0;\n        right: 0;\n        width: 100%;\n        height: 100%;\n        margin: 0;\n        padding: 0;\n        .slidey-overlay {     \n            background: rgba(0,0,0,0);   \n            .slidey-progress {\n                bottom: 0;\n                top: auto !important;\n            }   \n            .slidey-overlay-title {\n                display: none;\n            }\n            .slidey-overlay-description {\n                display: none;\n            }\n        }\n    }\n     \n}\n\n.getcolor(@value) {\n    @color: rgb(green(@value),red(@value),blue(@value));\n}\n\n.image-fix {\n    -ms-interpolation-mode: bicubic;\n\n    image-rendering: antialias;\n    /* IE (non-standard property) */\n}\n\n.user-select (@val) {\n    -webkit-user-select: @val;\n       -moz-user-select: @val;\n        -ms-user-select: @val;\n            user-select: @val;\n\n     -khtml-user-select: @val;\n    -webkit-touch-callout: @val;\n}\n",
+			"file": "jquery.slidey.less",
+			"file_size": 7795,
+			"file_write_time": 131129879913960832,
+			"settings":
+			{
+				"buffer_size": 7476,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 188.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"tid",
+				"Tidy PHP"
+			],
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"codei",
+				"Snippet: CodeIgniter 2 Controller"
+			],
+			[
+				"ci",
+				"CI Codeintel Helper: Create IDE helper"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"jsfmt",
+				"JSFMT: Toggle autoformat"
+			],
+			[
+				"phpfmt",
+				"phpfmt: format now"
+			],
+			[
+				"phpfmt: forma",
+				"phpfmt: format now"
+			],
+			[
+				"pack	",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa	",
+				"Package Control: Remove Package"
+			],
+			[
+				"set",
+				"Preferences: Settings - User"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 535.0
+	},
+	"console":
+	{
+		"height": 184.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/slidey",
+		"/C/xampp/htdocs/slidey/jquery.slidey"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/slidey/index.html",
+		"/C/xampp/htdocs/wordpress_themes/wp-content/themes/absolution/header.php",
+		"/C/xampp/htdocs/wordpress_themes/wp-content/themes/absolution/functions.php",
+		"/C/xampp/htdocs/rettica/application/admin/plugins/pjax/LICENSE",
+		"/C/xampp/htdocs/slidey/dist/jquery.dotdotdot.js",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/Trimmer/Default (Windows).sublime-keymap",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/cssorder/cssorder.sublime-settings",
+		"/C/Users/taha.paksu/Downloads/h7zddcb.rsdf",
+		"/C/Users/taha.paksu/Desktop/disk.inf_amd64_neutral_10ce25bbc5a9cc43/disk.inf",
+		"/C/xampp/htdocs/slidey/dist/jquery.slidey.min.js",
+		"/C/xampp/htdocs/slidey/package.json",
+		"/C/xampp/htdocs/wordpress_themes/wp-content/themes/absolution/package.json",
+		"/C/xampp/htdocs/rettica/application/helpers/entity/products_helper.php",
+		"/C/xampp/htdocs/rettica/application/admin/templates/category/modal-edit-property.html",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/fields/field_datetime/field_datetime.php",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/fields/field_color/field_color.php",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/fields/field_checkbox/field_checkbox.php",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/fields/field_textarea/field_textarea.php",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/fields/field_text/field_text.php",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/fields/field_slider/field_slider.php",
+		"/C/xampp/htdocs/rettica/application/helpers/php_helper.php",
+		"/C/xampp/htdocs/rettica/application/controllers/admin/Categories.php",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/fields/field_select/field_select.php",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/fields/field_email/field_email.php",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/fields/field_editor/field_editor.php",
+		"/C/xampp/htdocs/rettica/application/language/english/rettica_lang.php",
+		"/C/xampp/htdocs/rettica/application/admin/templates/category/category-properties.html",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/FormBuilder.php",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/fields/field_numeric/field_numeric.php",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/fields/field_radio/field_radio.php",
+		"/C/xampp/htdocs/rettica/application/cache/compiled/360d8bdb10432d9f326c3f6a608622add9f1a0a0.file.category-properties.html.php",
+		"/C/xampp/htdocs/rettica/application/helpers/admin/rettica_ajax_helper.php",
+		"/C/xampp/htdocs/rettica/application/libraries/getid3/getid3.lib.php",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/Project PHP ClassBrowser/ProjectPHPClassBrowser.sublime-settings",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/CustomFields.php",
+		"/C/xampp/htdocs/wordpress_themes/wp-content/themes/aeson/style.css",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/xampp/htdocs/wordpress_themes/wp-content/themes/aeson/.bowerrc",
+		"/C/xampp/htdocs/rettica/application/admin/templates/category/category-settings.html",
+		"/C/xampp/htdocs/rettica/application/admin/dist/js/rettica/rettica-custom.js",
+		"/C/xampp/htdocs/rettica/application/admin/header.html",
+		"/C/xampp/htdocs/rettica/application/controllers/admin/Language.php",
+		"/C/xampp/htdocs/rettica/application/admin/templates/settings/language.html",
+		"/C/xampp/htdocs/rettica/application/config/admin_menu.php",
+		"/C/xampp/htdocs/rettica/application/helpers/theme_helper.php",
+		"/C/xampp/htdocs/rettica/application/controllers/admin/Test.php",
+		"/C/xampp/htdocs/rettica/application/controllers/admin/Products.php",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/SublimeRestart/Default (Windows).sublime-keymap",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/SublimeRestart/restart.py",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/SublimeRestart/Main.sublime-menu",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/Restart/Restart.sublime-settings",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/Themr/Default (Windows).sublime-keymap",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/User/ThemrFavorites.sublime-settings",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
+		"/C/xampp/htdocs/rettica/application/config/i18n.php",
+		"/C/xampp/htdocs/rettica/application/helpers/options_helper.php",
+		"/C/xampp/htdocs/rettica/application/core/RetticaCore_controller.php",
+		"/C/xampp/htdocs/rettica/application/config/flexi_auth.php",
+		"/C/xampp/htdocs/rettica/application/config/config.php",
+		"/C/xampp/htdocs/rettica/application/controllers/Base.php",
+		"/C/xampp/htdocs/rettica/application/admin/templates/category/modal-add-property.html",
+		"/C/xampp/htdocs/rettica/application/admin/templates/category/modal-add-group.html",
+		"/C/xampp/htdocs/rettica/application/admin/templates/category/modal-add-category.html",
+		"/C/xampp/htdocs/rettica/application/admin/footer.html",
+		"/C/xampp/htdocs/rettica/application/libraries/PluginParser.php",
+		"/C/xampp/htdocs/rettica/application/admin/templates/category/category-builder.html",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/BrowserIntegration/BrowserIntegration.sublime-settings",
+		"/C/xampp/htdocs/rettica/application/admin/plugins/jquery.colpick/css/colpick.css",
+		"/C/xampp/htdocs/rettica/application/admin/plugins/jquery.nestable/jquery.nestable.css",
+		"/C/xampp/htdocs/rettica/application/admin/templates/category/modal-preview-property.html",
+		"/C/xampp/htdocs/rettica/application/logs/log-2015-12-27.php",
+		"/C/xampp/htdocs/rettica/application/logs/log-2015-12-26.php",
+		"/C/xampp/htdocs/rettica/application/libraries/FormBuilder/CustomFields_Interface.php",
+		"/C/xampp/htdocs/rettica/application/admin/dist/js/rettica/rettica-products.js",
+		"/C/xampp/htdocs/rettica/application/config/autoload.php",
+		"/C/xampp/htdocs/rettica/rettica.sublime-project",
+		"/C/Users/taha.paksu/Desktop/top-programming-fonts-master/install.sh",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/xampp/htdocs/rettica/application/admin/dist/css/media.css",
+		"/C/xampp/htdocs/rettica/application/controllers/admin/Ajax.php",
+		"/C/xampp/htdocs/rettica/application/helpers/admin/rettica_formbuilder_helper.php",
+		"/C/xampp/htdocs/rettica/application/libraries/Rettica/FormBuilder.php",
+		"/C/xampp/htdocs/rettica/application/admin/lib/customfields/field_slider/field_slider.php",
+		"/C/xampp/htdocs/rettica/application/admin/lib/customfields/field_checkbox/field_checkbox.php",
+		"/C/xampp/htdocs/rettica/application/admin/lib/customfields/field_datetime/field_datetime.php",
+		"/C/xampp/htdocs/rettica/application/admin/lib/customfields/field_email/field_email.php",
+		"/C/xampp/htdocs/rettica/application/admin/lib/customfields/field_editor/field_editor.php",
+		"/C/xampp/htdocs/rettica/application/admin/lib/customfields/field_numeric/field_numeric.php",
+		"/C/xampp/htdocs/rettica/application/admin/lib/customfields/field_radio/field_radio.php",
+		"/C/xampp/htdocs/rettica/application/admin/lib/customfields/field_select/field_select.php",
+		"/C/xampp/htdocs/rettica/application/admin/lib/customfields/field_color/field_color.php",
+		"/C/xampp/htdocs/rettica/application/admin/dist/js/rettica/rettica-media.js",
+		"/C/xampp/htdocs/rettica/application/admin/lib/customfields/field_textarea/field_textarea.php",
+		"/C/xampp/htdocs/rettica/application/admin/lib/customfields/field_text/field_text.php",
+		"/C/xampp/htdocs/rettica/application/admin/build/rettica-less/media.less",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/CSSOrder/cssorder.sublime-settings",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/CSScomb/CSScomb.sublime-settings",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/CSSLint/Default (Windows).sublime-keymap",
+		"/C/Users/taha.paksu/AppData/Roaming/Sublime Text 3/Packages/CSSLint/CSSLint.sublime-settings",
+		"/C/xampp/htdocs/rettica/application/admin/plugins/iCheck/square/rettica.css",
+		"/C/xampp/htdocs/rettica/application/admin/dist/js/rettica.footer.js",
+		"/C/xampp/htdocs/rettica/application/admin/login.html",
+		"/C/xampp/htdocs/rettica/application/admin/dist/css/AdminLTE.css",
+		"/C/xampp/htdocs/rettica/application/helpers/query_helper.php",
+		"/C/xampp/htdocs/rettica/application/helpers/media_helper.php",
+		"/C/xampp/htdocs/rettica/application/admin/templates/products/new-product-variants.html",
+		"/C/xampp/htdocs/rettica/application/helpers/language_helper.php",
+		"/C/xampp/htdocs/rettica/index.php",
+		"/C/xampp/htdocs/rettica/system/core/Common.php",
+		"/C/xampp/htdocs/rettica/application/admin/templates/products/new-product.html",
+		"/C/xampp/htdocs/rettica/application/controllers/User.php",
+		"/C/xampp/htdocs/rettica/application/core/RetticaCore_lang.php",
+		"/C/xampp/htdocs/rettica/application/admin/templates/products/new-product-properties.html",
+		"/C/xampp/htdocs/rettica/application/admin/templates/products/new-product-info.html",
+		"/C/xampp/htdocs/rettica/application/config/hooks.php",
+		"/C/xampp/htdocs/rettica/system/core/Lang.php",
+		"/C/log_06-12-15.txt",
+		"/C/xampp/htdocs/rettica/application/logs/log-2015-12-06.php",
+		"/C/xampp/htdocs/rettica/application/helpers/admin/rettica_columns_helper.php",
+		"/C/xampp/htdocs/rettica/application/admin/admin-template.html",
+		"/C/Users/taha.paksu/AppData/Local/Google/Chrome/User Data/Default/Local Storage/http_localhost_0.localstorage",
+		"/C/Users/taha.paksu/AppData/Local/Google/Chrome/User Data/Default/Local Storage/https_www.sikayetvar.com_0.localstorage",
+		"/C/xampp/htdocs/rettica/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/shelljs/src/exec.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\rettica\\application\\,*.php",
+			"C:\\xampp\\htdocs\\rettica\\application\\",
+			"C:\\xampp\\htdocs\\rettica\\application\\,*.php",
+			"C:\\xampp\\htdocs\\rettica\\application\\",
+			"C:\\xampp\\htdocs\\rettica\\application\\admin\\templates",
+			"C:\\xampp\\htdocs\\rettica\\application\\libraries\\FormBuilder,*.php",
+			"C:\\xampp\\htdocs\\rettica\\application\\,*.php",
+			"C:\\xampp\\htdocs\\rettica\\application\\controllers",
+			"C:\\xampp\\htdocs\\rettica\\application\\libraries\\FormBuilder\\",
+			"C:\\xampp\\htdocs\\rettica\\application\\libraries\\FormBuilder\\fields",
+			"C:\\xampp\\htdocs\\rettica\\application\\libraries\\FormBuilder\\fields,<open files>",
+			"C:\\xampp\\htdocs\\rettica\\application\\libraries\\FormBuilder\\fields",
+			"C:\\xampp\\htdocs\\rettica\\application\\admin",
+			"C:\\xampp\\htdocs\\rettica\\application\\libraries\\FormBuilder",
+			"C:\\xampp\\htdocs\\rettica\\application\\",
+			"C:\\xampp\\htdocs\\rettica\\application\\admin",
+			"C:\\xampp\\htdocs\\rettica",
+			"C:\\xampp\\htdocs\\rettica\\application\\admin\\dist",
+			"C:\\xampp\\htdocs\\rettica\\application\\admin\\dist\\js\\rettica",
+			"C:\\xampp\\htdocs\\rettica\\application",
+			"C:\\xampp\\htdocs\\rettica\\application\\admin\\css",
+			"C:\\xampp\\htdocs\\rettica\\application\\admin",
+			"C:\\xampp\\htdocs\\rettica\\application\\",
+			"C:\\xampp\\htdocs\\rettica\\application\\themes\\rettica,*.html",
+			"C:\\xampp\\htdocs\\rettica\\application\\themes\\*.html",
+			"C:\\xampp\\htdocs\\rettica",
+			"C:\\xampp\\htdocs\\rettica\\application\\themes",
+			"C:\\xampp\\htdocs\\rettica",
+			"C:\\xampp\\htdocs\\rettica\\application",
+			"C:\\xampp\\htdocs\\rettica",
+			"C:\\xampp\\htdocs\\rettica,*.php, *.html, *.js",
+			"C:\\xampp\\htdocs\\rettica,*.php",
+			"C:\\xampp\\htdocs\\rettica",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"img",
+			"base.layout.$",
+			".stop()",
+			"25px",
+			"block-ellipsis",
+			"showList",
+			"height",
+			"width",
+			".height()",
+			".width()",
+			"assets/slider",
+			"<?php echo get_template_directory_uri();?>",
+			"get_products",
+			"get_the_properties",
+			"property_default",
+			"PropertyDefaultValue",
+			"values",
+			"format_field_type",
+			"trunc",
+			"truncate",
+			"format_field_type",
+			"pressenter_or_keytoaddnew_option",
+			"//parent::add_editor",
+			"parent::add_editor",
+			"select2",
+			"add_multiselect",
+			"build_category_list_select",
+			"639-2/B",
+			"639-2/T",
+			"639-1",
+			"'Script'",
+			"Directionality",
+			"Native Name",
+			"Language name",
+			"},",
+			":",
+			"{",
+			"initialization",
+			"get_option",
+			"enqueue_all_scripts_and_styles",
+			"enqueue_scripts_and_styles",
+			"return $field_settings;",
+			"function (&$ref,",
+			"($field_settings,",
+			"$field_settings = array();",
+			"array_push($ref, $field);",
+			"$this->default_field_structure",
+			"parent::\\$methods\\[\"(.+)\"\\]\\(",
+			"parent::\\$methods\\[\"(.+)\"\\](",
+			"parent::\\$methods\\[\"(.+)\"\\]",
+			"parent::\\$methods\\[(.+)\\]",
+			"parent::\\$methods[(.+)]",
+			"parent::$methods[(.+)]",
+			"rent::$default_field_structure",
+			"$this->default_field_structure",
+			"$this->add_",
+			"shown.bs.tab",
+			"tabs",
+			"tab",
+			"select",
+			"default_field_structure",
+			"rettica_formbuilder",
+			"cpb_helper_defs",
+			"retticafb_",
+			"44",
+			"icheck",
+			"connectedTo",
+			"connectSelectField",
+			"minimal-purple",
+			"icheck",
+			"aero",
+			"ckeditor_basic",
+			"rettica_ajax_get_category_property_input",
+			"rettica_get_category_property_input",
+			"img",
+			"sidebar",
+			"sidebar-form",
+			"missing.php",
+			"async: false",
+			"moment().zone(",
+			"moment.zone(",
+			"moment",
+			"zone",
+			"rettica_ajax",
+			"fieldToString",
+			"100",
+			"select2-thumbnail",
+			"select2(",
+			"new:",
+			"getCIFormat",
+			"default_moment_date_format",
+			"Moment",
+			"cpb_add_",
+			"build_category_list_html",
+			"jsdatatables.responsive",
+			"admin/ajax",
+			"helper(\"admin/validation\")",
+			"load->helper(",
+			"function cpb_",
+			"avs_",
+			"ajax/avs_",
+			"avs_",
+			"AVS_",
+			"AVS_Admin_Controller",
+			"AVS_Controller",
+			"AVS_",
+			"debug_console",
+			"phpass",
+			"Flexi_Auth",
+			"Flexi_Form_validation",
+			"RettValidation",
+			"phpass",
+			"class Products",
+			"RettProducts",
+			"Kaffesatz",
+			"oswald",
+			"([0-9.]+\\s*)\\n",
+			"([0-9.]+) ([0-9/]+)\\n",
+			"\\n\\*\\*\\*\\*\\*\\*",
+			"\\n\\*\\*\\*\\*\\*\\*\\*\\*",
+			"\\n\\*\\*\\*\\*\\*\\*\\*\\*\\*",
+			"category-select",
+			"dropzone",
+			"Alexander Pierce",
+			"datatables-responsive",
+			"src=\"dist/img",
+			"{$admin_url}dist",
+			"img src=\"dist/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".originalHeight()",
+			".originalWidth()",
+			"assets",
+			"",
+			"list",
+			"639_2B",
+			"639_2T",
+			"639_1",
+			"'script'",
+			"direction",
+			"native",
+			"language",
+			"),",
+			" => ",
+			"array(",
+			"return parent::$field_settings;",
+			"function(",
+			"(",
+			"parent::$field_settings = array();",
+			"array_push(parent::$field_settings, $field);",
+			"parent::$default_field_structure",
+			"parent::\\1(",
+			"parent::\\1",
+			"parent::$default_field_structure",
+			"parent::$methods[\"add_",
+			"",
+			"rettica",
+			"retticafb_add_",
+			"function retticafb_",
+			"rettica_",
+			"RetticaCore_Admin_Controller",
+			"RetticaCore_Controller",
+			"\\t\\1\\n",
+			"\\1\\n\\2",
+			"",
+			"Taha Paksu",
+			"src=\"{$admin_url}/dist/img",
+			"{$admin_url}/dist",
+			"img src=\"{$admin_url}dist/",
+			"\\n",
+			"",
+			"\\1\\n",
+			"\\1",
+			"/foreach",
+			"foreach from",
+			"foreach from=",
+			"/foreach",
+			"src=\"{$admin_url}/img/",
+			"src=\"{$admin_url}img/",
+			"{include file=\"",
+			"src=\"{$theme_url}images",
+			"src=\"{$theme_url}images/",
+			"src=\"{$theme_url}/images/",
+			"{$theme_url}/images",
+			"template->display",
+			"{include file=\"templates/sidebar.html\"}",
+			"{include file=\"templates/header.html\"}",
+			"{include file=\"templates/footer.html\"}",
+			"{include file=\"",
+			"$this -> template",
+			"template",
+			"$this -> smarty -> display",
+			"$this -> smarty",
+			"moment().subtract(\\2,\\1)",
+			",",
+			"\"application/admin/",
+			"",
+			"/",
+			"",
+			"'",
+			" 0",
+			"brand",
+			"value",
+			"private",
+			"\\1$field_name, $args",
+			"admin_url + \"",
+			"Arimo",
+			"Share",
+			"Oswald",
+			"font-family: 'Arimo',",
+			"font-family: 'Rosario',",
+			"font-family: 'Oswald',",
+			"font-family: 'Average Sans',",
+			"font-family: 'Average',",
+			"dd2-content",
+			"'|lang",
+			"\"{'",
+			"Roboto",
+			"Source Sans Pro",
+			"#add-category-property",
+			"#property_adder",
+			"multiple_string",
+			"array_push($ref,$field);",
+			"$ref = array_merge($ref,$field);",
+			"DD/MM/YYYY",
+			"d/m/Y",
+			";v",
+			"v",
+			"'",
+			"\\1'",
+			"\\t",
+			"#media-modal-grid"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "jquery.slidey.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5736,
+								5736
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2921.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "theme-1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2967,
+								2967
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 682.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "theme-2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1498,
+								1498
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 448.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "jquery.slidey/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17352,
+								17303
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3179.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "theme-3.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2958,
+								2967
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 455.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "theme-4.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3277,
+								3277
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "jquery.slidey.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6680,
+								6680
+							]
+						],
+						"settings":
+						{
+							"auto_indent": true,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3838.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 92.0
+	},
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.tooltips":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "slidey.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme_he",
+				"application/helpers/theme_helper.php"
+			],
+			[
+				"scripts",
+				"application/helpers/scripts_helper.php"
+			],
+			[
+				"adminlte",
+				"application/admin/css/AdminLTE.css"
+			],
+			[
+				"ajax",
+				"application/helpers/admin/ajax_helper.php"
+			],
+			[
+				"category.",
+				"application/admin/js/rettica/rettica-category.js"
+			],
+			[
+				"editor-con",
+				"application/admin/js/rettica/rettica-editor-conf.js"
+			],
+			[
+				"custom",
+				"application/admin/js/rettica/rettica-custom.js"
+			],
+			[
+				"admil",
+				"application/admin/css/AdminLTE.css"
+			],
+			[
+				"theme",
+				"application/helpers/theme_helper.php"
+			],
+			[
+				"media.css",
+				"application/admin/css/media.css"
+			],
+			[
+				"ajax_help",
+				"application/helpers/admin/ajax_helper.php"
+			],
+			[
+				"cpb",
+				"application/helpers/admin/cpb_helper.php"
+			],
+			[
+				"field_select",
+				"application/admin/lib/customfields/field_select/field_select.php"
+			],
+			[
+				"rettica-custom",
+				"application/admin/js/rettica/rettica-custom.js"
+			],
+			[
+				"checkbox_",
+				"application/admin/lib/customfields/field_checkbox/field_checkbox.php"
+			],
+			[
+				"cpb_",
+				"application/helpers/admin/cpb_helper.php"
+			],
+			[
+				"rettica-cus",
+				"application/admin/js/rettica/rettica-custom.js"
+			],
+			[
+				"brands",
+				"application/controllers/admin/brands.php"
+			],
+			[
+				"momentphp",
+				"application/libraries/MomentPHP.php"
+			],
+			[
+				"ajax_",
+				"application/helpers/admin/ajax_helper.php"
+			],
+			[
+				"media-css",
+				"application/admin/js/plugins/mediaelementsjs/mejs-skins.css"
+			],
+			[
+				"admin",
+				"application/admin/css/AdminLTE.css"
+			],
+			[
+				"media-modal",
+				"application/admin/templates/media/media-modal.html"
+			],
+			[
+				"privilege",
+				"application/admin/templates/user/privileges-table.html"
+			],
+			[
+				"user",
+				"application/controllers/user.php"
+			],
+			[
+				"products",
+				"application/controllers/admin/products.php"
+			],
+			[
+				"users.php",
+				"application/controllers/admin/users.php"
+			],
+			[
+				"cateogry-sett",
+				"application/admin/templates/category/category-settings.html"
+			],
+			[
+				"category-pr",
+				"application/admin/templates/category/category-properties.html"
+			],
+			[
+				"category-b",
+				"application/admin/templates/category/category-builder.html"
+			],
+			[
+				"moment",
+				"application/libraries/Moment/Moment.php"
+			],
+			[
+				"routes.php",
+				"application/config/routes.php"
+			],
+			[
+				"category-pro",
+				"application/admin/templates/category/category-properties.html"
+			],
+			[
+				"field_radi",
+				"application/admin/lib/customfields/field_radio/field_radio.php"
+			],
+			[
+				"field_c",
+				"application/admin/lib/customfields/field_checkbox/field_checkbox.php"
+			],
+			[
+				"component",
+				"application/admin/css/nifty-modal/component.css"
+			],
+			[
+				"adminl",
+				"application/admin/css/AdminLTE.css"
+			],
+			[
+				"avs_c",
+				"application/core/avs_controller.php"
+			],
+			[
+				"phphe",
+				"application/helpers/php_helper.php"
+			],
+			[
+				"ajax_he",
+				"application/helpers/admin/ajax_helper.php"
+			],
+			[
+				"query_he",
+				"application/helpers/query_helper.php"
+			],
+			[
+				"media_",
+				"application/helpers/media_helper.php"
+			],
+			[
+				"query",
+				"application/helpers/query_helper.php"
+			],
+			[
+				"query_",
+				"application/helpers/query_helper.php"
+			],
+			[
+				"custm",
+				"application/admin/js/AdminLTE/custom.js"
+			],
+			[
+				"nesta",
+				"application/admin/css/jquerynestable/jquery.nestable.css"
+			],
+			[
+				"media-",
+				"application/admin/templates/media/media-library.html"
+			],
+			[
+				"media",
+				"application/controllers/admin/media.php"
+			],
+			[
+				"nestable",
+				"application/admin/js/plugins/jquery.nestable/jquery.nestable.js"
+			],
+			[
+				"priv",
+				"application/admin/templates/user/privileges-table.html"
+			],
+			[
+				"route",
+				"application/config/routes.php"
+			],
+			[
+				"log-",
+				"application/logs/log-2014-11-08.php"
+			],
+			[
+				"media-lib",
+				"application/admin/templates/media/media-library.html"
+			],
+			[
+				"nestab",
+				"application/admin/css/jquerynestable/jquery.nestable.css"
+			],
+			[
+				"categories.css",
+				"application/admin/css/categories.css"
+			],
+			[
+				"categories",
+				"application/controllers/admin/categories.php"
+			],
+			[
+				"theme_",
+				"application/helpers/theme_helper.php"
+			],
+			[
+				"category",
+				"application/admin/templates/category/category-properties.html"
+			],
+			[
+				"categ",
+				"application/admin/css/categories.css"
+			],
+			[
+				"field_che",
+				"application/admin/lib/customfields/field_checkbox/field_checkbox.php"
+			],
+			[
+				"test.php",
+				"application/controllers/admin/test.php"
+			],
+			[
+				"moment.php",
+				"application/libraries/Moment/Moment.php"
+			],
+			[
+				"field_dat",
+				"application/admin/lib/customfields/field_datetime/field_datetime.php"
+			],
+			[
+				"dialog.css",
+				"application/admin/js/plugins/ckeditor/skins/bootstrapck/.temp/css/dialog.css"
+			],
+			[
+				"log-11-01",
+				"application/logs/log-2014-11-01.php"
+			],
+			[
+				"test",
+				"application/controllers/admin/test.php"
+			],
+			[
+				"avs",
+				"application/core/avs_controller.php"
+			],
+			[
+				"custom.js",
+				"application/admin/js/AdminLTE/custom.js"
+			],
+			[
+				"media_hel",
+				"application/helpers/media_helper.php"
+			],
+			[
+				"category-set",
+				"application/admin/templates/category/category-settings.html"
+			],
+			[
+				"media-libra",
+				"application/admin/templates/media/media-library.html"
+			],
+			[
+				"logs-",
+				"application/logs/log-2014-10-29.php"
+			],
+			[
+				"media.php",
+				"application/controllers/admin/media.php"
+			],
+			[
+				"media-libr",
+				"application/admin/templates/media/media-library.html"
+			],
+			[
+				"doctrine",
+				"application/controllers/doctrinemodelscreator.php"
+			],
+			[
+				"entities/media",
+				"application/entities/AVSModel/Media.php"
+			],
+			[
+				"media-html",
+				"application/admin/templates/media/media-modal.html"
+			],
+			[
+				"config",
+				"application/config/config.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\rettica\\rettica.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,261 @@
+<<<<<<< HEAD
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Slidey - jQuery + Bootstrap Slider</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="bootstrap/bootstrap.min.css" rel="stylesheet">
+    <!-- jQuery Version 1.11.1 -->
+    <script src="dist/jquery.min.js"></script>
+    <!-- jQuery Slidey 0.0.1 -->
+    <link href="dist/jquery.slidey.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <!--<script src="dist/jquery.slidey.min.js"></script>-->
+    <script src="jquery.slidey.js"></script>
+    <script src="dist/jquery.dotdotdot.min.js"></script>
+    <!-- Custom CSS -->
+    <style>
+    body {
+        padding-top: 70px;
+        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    }
+    </style>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">jQuery Slidey</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="index.html">Standard</a>
+                    </li>
+                    <li>
+                        <a href="theme-1.html">No list</a>
+                    </li>
+                    <li class="active">
+                        <a href="theme-2.html">Thumbnails</a>
+                    </li>
+                    <li>
+                        <a href="theme-3.html">Full Width</a>
+                    </li>
+                    <li>
+                        <a href="theme-4.html">Full Page</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h1>jQuery + Bootstrap powered Slidey</h1>
+                <p class="lead">This version will be the startup and let's look how it goes!</p>                
+                <div id="slidey" style="display:none;">
+                    <ul>
+                        <li><img src="assets/1.jpg"><p class='title'>Star Wars</p><p class='description'>After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.</p></li>
+                        <li><img src="assets/2.jpg"><p class='title'>Silicon Valley</p><p class='description'>Mike Judge brings his irreverent brand of humor to HBO in the new comedy series SILICON VALLEY. Partially inspired by Judge's own experiences as a Silicon Valley engineer in the late '80s, the show is a collaboration between Judge and Alec Berg.</p></li>
+                        <li><img src="assets/3.jpg"><p class='title'>Fringe</p><p class='description'>The Fringe team explore the blurring line between the possible and the impossible. They are encountering glitches in the world they are living in, face threats from a parallel universe and try to prevent events that will lead to the destruction of their own universe.</p></li>
+                        <li><img src="assets/4.jpg"><p class='title'>Assassin's Creed</p><p class='description'>When Callum Lynch (Michael Fassbender) explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.</p></li>
+                        <li><img src="assets/5.jpg"><p class='title'>Star Wars</p><p class='description'>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</p></li>
+                        <li><img src="assets/6.jpg"><p class='title'>Continuum</p><p class='description'>Continuum is a one-hour police drama centered on Kiera Cameron, a regular cop from 65 years in the future who finds herself trapped in present day Vancouver. She is alone, a stranger in a strange land, and has eight of the most ruthless criminals from the future, known as Liber8, loose in the city.
+
+Lucky for Kiera, through the use of her CMR (cellular memory recall), a futuristic liquid chip technology implanted in her brain, she connects with Alec Sadler, a seventeen-year-old tech genius. When Kiera calls and Alec answers, a very unique partnership begins.
+
+Kiera's first desire is to get "home." But until she figures out a way to do that, she must survive in our time period and use all the resources available to her to track and capture the terrorists before they alter history enough to change the course of the future. After all, what's the point of going back if the future isn't the one you left?</p></li>
+                        <li><img src="assets/7.jpg"><p class='title'>Agents of S.H.I.E.L.D.</p><p class='description'>Clark Gregg reprises his role of Agent Phil Coulson from Marvel's feature films, as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H.I.E.L.D. Together they investigate the new, the strange, and the unknown across the globe, protecting the ordinary from the extraordinary. Coulson's team consists of Agent Grant Ward, highly trained in combat and espionage Agent Melinda May expert pilot and martial artist; Agent Leo Fitz, brilliant engineer; and Agent Jemma Simmons, genius bio-chemist. Joining them on their journey into mystery is new recruit and computer hacker, Skye.</p></li>
+                        <li><img src="assets/8.jpg"><p class='title'>Falling Skies</p><p class='description'>The series tells the story of the aftermath of a global invasion by several races of extraterrestrials that neutralizes the world's power grid and technology, quickly destroys the combined militaries of all the world's countries, and apparently kills over 90% of the human population within a few days.</p></li>
+                        <li><img src="assets/9.jpg"><p class='title'>Avengers</p><p class='description'>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit. </p></li>
+                        <li><img src="assets/10.jpg"><p class='title'>Friends</p><p class='description'>Six young people from New York, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.</p></li>
+                    </ul>                    
+                </div>
+            </div>
+        </div>
+        <div id="nodes"></div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+    <script type="text/javascript">
+        $("#slidey").slidey({
+            interval: 3000,
+            listCount: 5,
+            showList: false,
+            showNodes: true,
+            nodeContainer: "#nodes" 
+        });
+        $(".slidey-list-description").dotdotdot();
+    </script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="bootstrap/bootstrap.min.js"></script>
+
+</body>
+
+</html>
+=======
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Slidey - jQuery + Bootstrap Slider</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="bootstrap/bootstrap.min.css" rel="stylesheet">
+    <!-- jQuery Version 1.11.1 -->
+    <script src="dist/jquery.min.js"></script>
+    <!-- jQuery Slidey 0.0.1 -->
+    <link href="dist/jquery.slidey.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    <!--<script src="dist/jquery.slidey.min.js"></script>-->
+    <script src="jquery.slidey.js"></script>
+    <script src="dist/jquery.dotdotdot.min.js"></script>
+    <!-- Custom CSS -->
+    <style>
+    body {
+        padding-top: 70px;
+        /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    }
+    </style>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">jQuery Slidey</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="index.html">Standard</a>
+                    </li>
+                    <li>
+                        <a href="theme-1.html">No list</a>
+                    </li>
+                    <li class="active">
+                        <a href="theme-2.html">Thumbnails</a>
+                    </li>
+                    <li>
+                        <a href="theme-3.html">Full Width</a>
+                    </li>
+                    <li>
+                        <a href="theme-4.html">Full Page</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h1>jQuery + Bootstrap powered Slidey</h1>
+                <p class="lead">This version will be the startup and let's look how it goes!</p>                
+                <div id="slidey" style="display:none;">
+                    <ul>
+                        <li><img src="assets/1.jpg"><p class='title'>Star Wars</p><p class='description'>After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.</p></li>
+                        <li><img src="assets/2.jpg"><p class='title'>Silicon Valley</p><p class='description'>Mike Judge brings his irreverent brand of humor to HBO in the new comedy series SILICON VALLEY. Partially inspired by Judge's own experiences as a Silicon Valley engineer in the late '80s, the show is a collaboration between Judge and Alec Berg.</p></li>
+                        <li><img src="assets/3.jpg"><p class='title'>Fringe</p><p class='description'>The Fringe team explore the blurring line between the possible and the impossible. They are encountering glitches in the world they are living in, face threats from a parallel universe and try to prevent events that will lead to the destruction of their own universe.</p></li>
+                        <li><img src="assets/4.jpg"><p class='title'>Assassin's Creed</p><p class='description'>When Callum Lynch (Michael Fassbender) explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.</p></li>
+                        <li><img src="assets/5.jpg"><p class='title'>Star Wars</p><p class='description'>Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.</p></li>
+                        <li><img src="assets/6.jpg"><p class='title'>Continuum</p><p class='description'>Continuum is a one-hour police drama centered on Kiera Cameron, a regular cop from 65 years in the future who finds herself trapped in present day Vancouver. She is alone, a stranger in a strange land, and has eight of the most ruthless criminals from the future, known as Liber8, loose in the city.
+
+Lucky for Kiera, through the use of her CMR (cellular memory recall), a futuristic liquid chip technology implanted in her brain, she connects with Alec Sadler, a seventeen-year-old tech genius. When Kiera calls and Alec answers, a very unique partnership begins.
+
+Kiera's first desire is to get "home." But until she figures out a way to do that, she must survive in our time period and use all the resources available to her to track and capture the terrorists before they alter history enough to change the course of the future. After all, what's the point of going back if the future isn't the one you left?</p></li>
+                        <li><img src="assets/7.jpg"><p class='title'>Agents of S.H.I.E.L.D.</p><p class='description'>Clark Gregg reprises his role of Agent Phil Coulson from Marvel's feature films, as he assembles a small, highly select group of Agents from the worldwide law-enforcement organization known as S.H.I.E.L.D. Together they investigate the new, the strange, and the unknown across the globe, protecting the ordinary from the extraordinary. Coulson's team consists of Agent Grant Ward, highly trained in combat and espionage Agent Melinda May expert pilot and martial artist; Agent Leo Fitz, brilliant engineer; and Agent Jemma Simmons, genius bio-chemist. Joining them on their journey into mystery is new recruit and computer hacker, Skye.</p></li>
+                        <li><img src="assets/8.jpg"><p class='title'>Falling Skies</p><p class='description'>The series tells the story of the aftermath of a global invasion by several races of extraterrestrials that neutralizes the world's power grid and technology, quickly destroys the combined militaries of all the world's countries, and apparently kills over 90% of the human population within a few days.</p></li>
+                        <li><img src="assets/9.jpg"><p class='title'>Avengers</p><p class='description'>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit. </p></li>
+                        <li><img src="assets/10.jpg"><p class='title'>Friends</p><p class='description'>Six young people from New York, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.</p></li>
+                    </ul>                    
+                </div>
+            </div>
+        </div>
+        <div id="nodes"></div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+    <script type="text/javascript">
+        $("#slidey").slidey({
+            interval: 3000,
+            listCount: 5,
+            showList: false,
+            showNodes: true,
+            nodeContainer: "#nodes" 
+        });
+        $(".slidey-list-description").dotdotdot();
+    </script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="bootstrap/bootstrap.min.js"></script>
+
+</body>
+
+</html>
+>>>>>>> b6f4d9158ad6763767ab7fbe04aae1767b3fe748
